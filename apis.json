@@ -1,0 +1,60 @@
+{
+    "name": "VoiceVault",
+    "description": "VoiceVault sets the standard for voice biometric authentication with identity verification solutions for mobile, on-device and telephony applications.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1211-voicevault.jpg",
+    "tags": [
+        "biometrics",
+        "have api",
+        "networks",
+        "security",
+        "telecommunications",
+        "verification"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/voicevault\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "VoiceVault",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1211-voicevault.jpg",
+            "humanURL": "https:\/\/voicevault.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/voicevault-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.voicevault.com\/index.php\/tools\/blocks\/problog_list\/rss?cID=188"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/voicevault"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/biometric-security"
+        },
+        {
+            "type": "Email",
+            "url": "info@voicevault.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/voicevault"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/voicevault.com\/"
+        }
+    ]
+}
